@@ -1,1 +1,1 @@
-# This is my first project that i maked in my college about web-programming.
+# This is my first project that i made in my college about web-programming.
