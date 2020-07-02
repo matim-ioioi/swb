@@ -1,0 +1,51 @@
+.btn:focus{
+    box-shadow: none;
+}
+
+.nav-item{
+    margin: 0 1rem 0 1rem;
+}
+
+#icon{
+    margin-right: 1rem;
+}
+
+#footer-link{
+    padding-left: 2rem;
+}
+
+.btn-outline-dark:not(:disabled):not(.disabled):active:focus, .btn-outline-dark:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-dark.dropdown-toggle:focus{
+    box-shadow: none;
+}
+
+.dropdown-item, .dropdown-item label, .dropdown-item input{
+    cursor: pointer;
+}
+
+hr{
+    margin: 0;
+}
+
+#layer{
+    position: absolute;
+    display: none;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    z-index: 5;
+}
+
+.badge{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body, header, footer{
+    font-family: 'Dosis', sans-serif;
+}
+
+i{
+    z-index: 9999;
+}
